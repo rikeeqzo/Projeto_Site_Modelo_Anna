@@ -1,5 +1,7 @@
 body {
     background: #d2d2d2c1 url('imagens/fundo.png');
+    font: 16px
+     Arial, Helvetica, sans-serif;
 }
 
 
@@ -26,6 +28,11 @@ a {
 
 .centralizar {
     text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
 }
 
 /*#rodape {
